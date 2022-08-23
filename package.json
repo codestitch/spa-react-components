@@ -63,7 +63,7 @@
     "react-router-dom": "^6.3.0",
     "single-spa": "^5.9.3",
     "single-spa-react": "^4.3.1",
-    "tailwindcss": "2.0.2"
+    "tailwindcss": "2.2.19"
   },
   "types": "dist/alpha-labs-react-components.d.ts"
 }
