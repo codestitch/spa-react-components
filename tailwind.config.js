@@ -11,8 +11,8 @@ module.exports = {
       background: "var(--color-background)",
       white: "var(--color-white)",
       black: "var(--color-black)",
-      overlay: "var(--color-overlay)"
-    }
+      overlay: "var(--color-overlay)",
+    },
   },
   plugins: [],
-}
+};
